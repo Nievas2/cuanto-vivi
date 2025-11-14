@@ -204,6 +204,9 @@ export default function App() {
                   </span>
                 </div>
               </div>
+              <p className="text-xs text-pink-700">
+                Este calendario tiene en cuenta los años bisiestos, por lo que puede haber pequeñas variaciones en el conteo total de días.
+              </p>
             </div>
 
             <div className="flex flex-wrap gap-4">
