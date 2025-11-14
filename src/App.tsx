@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-explicit-any */
 import { useMemo, useState, memo } from "react"
 import { Icon } from "@iconify/react"
 import moment from "moment"
